@@ -1,0 +1,7 @@
+C:\Users\gomes\Desktop\Stephanie\ETEC\TECNICOS\TPA\LIÇÕES\C#\Lanchonete Lanche Bom\Lanchonete Lanche Bom\bin\Debug\Lanchonete Lanche Bom.exe.config
+C:\Users\gomes\Desktop\Stephanie\ETEC\TECNICOS\TPA\LIÇÕES\C#\Lanchonete Lanche Bom\Lanchonete Lanche Bom\bin\Debug\Lanchonete Lanche Bom.exe
+C:\Users\gomes\Desktop\Stephanie\ETEC\TECNICOS\TPA\LIÇÕES\C#\Lanchonete Lanche Bom\Lanchonete Lanche Bom\bin\Debug\Lanchonete Lanche Bom.pdb
+C:\Users\gomes\Desktop\Stephanie\ETEC\TECNICOS\TPA\LIÇÕES\C#\Lanchonete Lanche Bom\Lanchonete Lanche Bom\obj\Debug\Lanchonete Lanche Bom.csproj.AssemblyReference.cache
+C:\Users\gomes\Desktop\Stephanie\ETEC\TECNICOS\TPA\LIÇÕES\C#\Lanchonete Lanche Bom\Lanchonete Lanche Bom\obj\Debug\Lanchonete Lanche Bom.csproj.CoreCompileInputs.cache
+C:\Users\gomes\Desktop\Stephanie\ETEC\TECNICOS\TPA\LIÇÕES\C#\Lanchonete Lanche Bom\Lanchonete Lanche Bom\obj\Debug\Lanchonete Lanche Bom.exe
+C:\Users\gomes\Desktop\Stephanie\ETEC\TECNICOS\TPA\LIÇÕES\C#\Lanchonete Lanche Bom\Lanchonete Lanche Bom\obj\Debug\Lanchonete Lanche Bom.pdb
